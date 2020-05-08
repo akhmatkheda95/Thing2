@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "things"
+    }
+  },
+  "defaultProject": "things",
+  "cli": {
+    "analytics": false
+  }
 }
